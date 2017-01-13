@@ -2,4 +2,6 @@
 #-*- coding:utf-8 -*-
 print("hello wrold")
 def test():
-	print(1+2)
+	print(1+1)
+def add():
+	print (2+2)
